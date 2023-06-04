@@ -1,0 +1,24 @@
+{
+  "name": "build-cli",
+  "version": "1.0.0",
+  "description": "自动化打包脚本",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zengchuguo/build-cli.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zengchuguo/build-cli/issues"
+  },
+  "homepage": "https://github.com/zengchuguo/build-cli#readme",
+  "dependencies": {
+    "commander": "^10.0.1",
+    "inquirer": "^9.2.7"
+  }
+}
